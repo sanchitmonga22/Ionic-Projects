@@ -1,0 +1,7 @@
+{
+  "appId": "com.ang-ion.first-app",
+  "appName": "ang-ion",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
